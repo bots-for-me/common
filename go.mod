@@ -4,5 +4,6 @@ go 1.14
 
 require (
 	github.com/fsnotify/fsnotify v1.4.9
+	github.com/recoilme/pudge v1.0.3
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776
 )
